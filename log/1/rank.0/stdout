@@ -1,0 +1,9 @@
+Hello
+rand[0] 60000
+rand[0] 10000
+rand[0] 784
+rand[0] 47040000
+rand[0] 7840000
+10000 testsamples, 60000 trainsamples
+Precision:    9684 /   10000 96.840%
+Total wall time 4161.010 s
